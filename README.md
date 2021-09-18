@@ -12,11 +12,13 @@ The dataset in this study is the monthly records of the beach shoreline from a d
 **Training data:** which covers a 15-year range (1999 - 2013, inclusive)  of the records. This is used to build and calibrate the Time Series model. Next, the model is used to make predictions for the next 3 years and these are compared with `Test data` (`True observations`).
 
 Below is a sneak peek at the `Training data`.
+
 ![train-dataset](./Images/train-data.png)
 
 **Test data:** aka **True observations** this covers the 3-year range (2014 - 2016, inclusive).
 
 Below is a sneak peek at the `Test data`.
+
 ![test-dataset](./Images/test-data.png)
 
 ## Modeling
