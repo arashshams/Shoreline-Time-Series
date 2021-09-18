@@ -17,7 +17,7 @@ Below is a sneak peek at the `Training data`.
 
 **Test data:** aka **True observations** this covers the 3-year range (2014 - 2016, inclusive).
 
-Below is a sneak peek at the `Test data`.
+Below is the whole `Test data`.
 
 ![test-dataset](./Images/test-data.png)
 
@@ -32,12 +32,14 @@ Several models have been built which include:
 - RandomForest
 
 As seen in the below plot, SARIMA model has the best performance compared to others. This model is next used to make predictions.
-![dataset](./Images/dataset.png)
+
+![models](./Images/models.png)
 
 ## Forecasting
 
 The plot below, shows the predictions from SARIMA model and compares it with `True observations`.
-![dataset](./Images/dataset.png)
+
+![forecasts](./Images/forecasts.png)
 
 Obviously, forecasts are close to `True observations` so that the lines are not practically distinguishable.
 
