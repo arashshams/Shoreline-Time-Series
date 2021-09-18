@@ -47,4 +47,4 @@ Obviously, forecasts are close to `True observations` so that the lines are not 
 - Several models including (`Adjusted naive`, `ETS (AAM)`, `ARIMA`, `SARIMA`, `RandomForest`) were built and their performances were evaluated using the 15-year data (1999 - 2013, inclusive) of which `SARIMA` model came out as the winner. 
 - `SARIMA` model was used to make predictions for the next 3 years (2014 - 2016, inclusive) where predicted values were compared with the test data (true observations). Results show that the predictions are significantly close to the true observations of those 3 years. 
 - There is always room for improvement in this analysis and while building a prefect model is not the intention of this work the main goal is to follow a solid workflow in building a Time-Series model.
-
+- 
