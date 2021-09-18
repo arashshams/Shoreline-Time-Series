@@ -25,7 +25,7 @@ Below is the whole `Test data`.
 
 Several models have been built which include:
 
-- Adjusted naive
+- [Adjusted naive](https://www.avercast.com/post/naive-forecasting)
 - [ETS (AAM)](https://www.statsmodels.org/dev/examples/notebooks/generated/ets.html) 
 - [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
 - [SARIMA](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
