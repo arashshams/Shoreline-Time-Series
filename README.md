@@ -26,10 +26,10 @@ Below is the whole `Test data`.
 Several models have been built which include:
 
 - Adjusted naive
-- ETS (AAM) 
-- ARIMA
-- SARIMA
-- RandomForest
+- [ETS (AAM)](https://www.statsmodels.org/dev/examples/notebooks/generated/ets.html) 
+- [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
+- [SARIMA](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
+- [RandomForest](https://en.wikipedia.org/wiki/Random_forest)
 
 As seen in the below plot, SARIMA model has the best performance compared to others. This model is next used to make predictions.
 
