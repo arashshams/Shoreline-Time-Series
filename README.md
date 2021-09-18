@@ -1,4 +1,4 @@
-# Shoreline-Time_Series
+# Shoreline-Time-Series
 
 This repo hosts a Time Series modeling for prediction of the [Tairua Beach](https://www.findabeach.co.nz/beaches/tairua/about/) (located in New Zealand) shoreline.
 
